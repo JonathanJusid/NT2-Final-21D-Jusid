@@ -12,7 +12,7 @@
               <p>{{texto | minusmayus }}</p>
               </div>
               <hr>
-              <p>Respuestas: 1:b | 2:b | 3:c | 4:a,b | 5:b </p>
+              <p>Respuestas: 1:b | 2:b | 3:c | 4:a,b | 5:b,c </p>
       </div>
   </section>
 
